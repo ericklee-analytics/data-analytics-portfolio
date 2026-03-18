@@ -6,7 +6,8 @@ Customer churn represents a major revenue risk for subscription-based businesses
 
 Tools Used
 
-• Excel
+• Google Sheets
+• SQL
 • Tableau
 • Data segmentation techniques
 
