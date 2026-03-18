@@ -28,4 +28,5 @@ Key Insights
 
 Dashboard
 
-Interactive Tableau dashboard:
+Interactive Tableau dashboard: https://public.tableau.com/views/TelecomChurn_17728562992040/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
